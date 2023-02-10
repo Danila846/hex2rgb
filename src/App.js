@@ -1,11 +1,11 @@
 import './App.css';
-import Steps from './components/steps';
+import Converter from './components/converter';
 
 
 function App() {
 	return (
 		<div className="App">
-			<Steps />
+			<Converter />
 		</div>
 	);
 }
